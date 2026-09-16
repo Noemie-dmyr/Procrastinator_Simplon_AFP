@@ -183,7 +183,36 @@ de l'application.
 
 ## 📱 Aperçu
 
-*Captures d'écran de l'application à venir.*
+### 🏠 Dashboard
+
+Le Dashboard permet de visualiser les tâches quotidiennes, organisées par
+catégorie. La barre de progression et la mascotte permettent également de
+suivre l'avancement de l'utilisateur.
+
+![Dashboard](images/dashboard.png)
+
+### ➕ Création d'une nouvelle tâche
+
+La création d'une tâche permet de définir ses différentes caractéristiques :
+nom, catégorie, date, priorité, alerte, récurrence, étapes et notes.
+
+![Création d'une tâche - partie 1](images/new-task-1.png)
+
+![Création d'une tâche - partie 2](images/New-task-2.png)
+
+### 🐱 Personnalisation de la mascotte
+
+Les coins obtenus en accomplissant des tâches peuvent être utilisés pour
+personnaliser la mascotte.
+
+![Personnalisation de la mascotte](images/personnalisation.png)
+
+### 📋 Détail d'une tâche
+
+Une fois créée, une tâche peut être sélectionnée depuis le Dashboard afin
+de consulter ses informations et de suivre ses différentes étapes.
+
+![Détail d'une tâche](images/Task-description.png)
 
 ---
 
