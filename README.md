@@ -181,6 +181,12 @@ de l'application.
 
 ---
 
+## 📱 Aperçu
+
+*Captures d'écran de l'application à venir.*
+
+---
+
 # 👥 Travail en équipe
 
 Procrastinator a été développé en équipe dans le cadre d'une première
